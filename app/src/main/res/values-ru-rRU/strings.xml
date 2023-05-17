@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Stressometr AI</string>
+    <string name="score">результат</string>
+    <string name="txtHumidity">Влажность кожи (%)</string>
+    <string name="txtTemperature">Температура кожи (°C)</string>
+    <string name="txtStep">Количество шагов</string>
+    <string name="txtWeight">Mасса (кг)</string>
+    <string name="txtHeight"> Bысота (см)</string>
+    <string name="txtRoad">Дистанция (м)</string>
+    <string name="txtTime">Время (мин)</string>
+    <string name="settings">настройки</string>
+    <string name="field">Поле не заполнено</string>
+
+
+
+    <string name="txtCal">Калории сожжены</string>
+    <string name="txtQ">Потребляемая мощность</string>
+    <string name="txtSon">Шаг</string>
+    <string name="txtTezlik">Скорость</string>
+
+    <string name="b1"> ккал</string>
+    <string name="b2"> ккал/мин</string>
+    <string name="b3"> шаг</string>
+    <string name="b4"> км/ч</string>
+
+    <string name="pedometr">шагомер</string>
+    <string name="stressometr">стрессометр</string>
+    <string name="language">Выберите язык</string>
+    <string name="uz">Узбекский</string>
+    <string name="ru">Русский</string>
+
+
+    <string name="str1">У вас низкий уровень стресса</string>
+    <string name="str2">Ваш уровень стресса средний</string>
+    <string name="str3">У вас высокий уровень стресса</string>
+    <string name="sc">Результат</string>
+
+    <string name="appHeader">О приложении</string>
+    <string name="about2">Слово «стресс» в переводе с английского языка означает «напряжение, нагрузка». Термин введен в физиологию, психологию и медицину У. Кэнноном в 1929 году, широкое распространение получил благодаря работам его ученика Г. Селье, изданным в 1946 году и позже. Исследования хронического стресса активно ведутся с конца XX века. Точных данных о его распространенности нет, но, согласно официальной статистике, эпидемиологический показатель превышает 25%. Установлено, что стрессу больше подвержены жители крупных городов, экономически развитых стран, работники вредных производств и лица, чья деятельность связана с обработкой больших объемов информации, переездами, постоянными контактами с новыми людьми.
+</string>
+    <string name="appInfo1">Приложение позволяет определять уровень стресса при помощи машинного обучения случайный лес (Random Forrest) с аккуратностью прогнозирования 99,7%. Разработанная программа на основе ввода данных показателей физических движений, влажности и температуры на поверхности кожи человека определяет уровень стресса. </string>
+    <string name="appInfo2">Стресс относится к системе неспецифических адаптационных ответов организма. Он развивается при воздействии физических и психологических раздражителей и позволяет сохранить постоянство внутренней среды – приспосабливает организм к трудной ситуации. Основными гормонами стресса являются кортизол, кортикостерон, адреналин и норадреналин. Благодаря изменению их концентрации в крови угнетается работа иммунной и пищеварительной систем, активизируются механизмы, необходимые для бегства или борьбы – повышается кровяное давление, частота дыхания, тонус мышц, обостряется восприятие, ускоряются мыслительные процессы.
+</string>
+    <string name="appInfo3">В головном мозге активизируются области, связанные с эмоцией страха и тревоги – миндалевидное тело и гиппокамп. Активность префронтальной коры, обеспечивающей волевую регуляцию эмоций, напротив, снижается. Особенность хронического стресса заключается в том, что продолжительная интенсивная выработка гормонов и гиперактивация симпатического отдела нервной системы способствуют истощению организма, повреждению внутренних органов и систем – снижается иммунитет, возникают боли, развиваются соматические патологии.
+</string>
+    <string name="follow">Следите за нами</string>
+
+    <string name="cancel">отмена</string>
+<!--    <string name="message">Message</string>-->
+<!--    <string name="read_news">Read news</string>-->
+<!--    <string name="saved">Saved</string>-->
+<!--    <string name="profile">Profile</string>-->
+
+    <string name="account">Аккаунт</string>
+    <string name="change_account_name">Изменить имя aккаунт</string>
+    <string name="change_image">Изменить изображениe aккаунт</string>
+    <string name="help"><![CDATA[Help & Feedback]]></string>
+    <string name="support_us">Поддержать</string>
+    <string name="infooo">О приложении</string>
+    <string name="about_us">About US</string>
+    <string name="contact_us"><![CDATA[Contact & Feedback]]></string>
+    <string name="name">имя</string>
+    <string name="save">сохранить</string>
+    <string name="share">Поделится</string>
+
+
+</resources>

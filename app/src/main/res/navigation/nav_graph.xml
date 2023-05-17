@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/splashScreen">
+
+    <fragment
+        android:id="@+id/splashScreen"
+        android:name="uz.alpha.stresometr.presentation.ui.screens.SplashScreen"
+        android:label="SplashScreen"
+        tools:layout="@layout/screen_splash">
+        <action
+            android:id="@+id/action_splashScreen_to_mainScreen"
+            app:destination="@id/mainScreen" />
+    </fragment>
+    <fragment
+        android:id="@+id/mainScreen"
+        android:name="uz.alpha.stresometr.presentation.ui.screens.MainScreen"
+        android:label="MainScreen"
+        tools:layout="@layout/screen_main">
+        <action
+            android:id="@+id/action_mainScreen_to_scoreScreen"
+            app:destination="@id/scoreScreen" />
+        <action
+            android:id="@+id/action_mainScreen_to_informationScreen"
+            app:destination="@id/informationScreen" />
+        <action
+            android:id="@+id/action_mainScreen_to_langScreen"
+            app:destination="@id/langScreen" />
+        <action
+            android:id="@+id/action_mainScreen_to_demo2"
+            app:destination="@id/demo2" />
+    </fragment>
+    <fragment
+        tools:layout="@layout/screen_score"
+        android:id="@+id/scoreScreen"
+        android:name="uz.alpha.stresometr.presentation.ui.screens.ScoreScreenPedometr"
+        android:label="ScoreScreen">
+
+        <argument
+            android:name="data1"
+            app:argType="uz.alpha.stresometr.data.local.PedoData"/>
+
+    </fragment>
+    <fragment
+        tools:layout="@layout/screen_info"
+        android:id="@+id/informationScreen"
+        android:name="uz.alpha.stresometr.presentation.ui.screens.InformationScreen"
+        android:label="InformationScreen" >
+        <action
+            android:id="@+id/action_informationScreen_to_mainScreen"
+            app:destination="@id/mainScreen" />
+    </fragment>
+    <fragment
+        tools:layout="@layout/screen_language"
+        android:id="@+id/langScreen"
+        android:name="uz.alpha.stresometr.presentation.ui.screens.LangScreen"
+        android:label="LangScreen" >
+        <action
+            android:id="@+id/action_langScreen_to_mainScreen"
+            app:destination="@id/mainScreen" />
+    </fragment>
+    <fragment
+        android:id="@+id/demo2"
+        android:name="uz.alpha.stresometr.presentation.ui.screens.Demo"
+        android:label="Demo" />
+</navigation>

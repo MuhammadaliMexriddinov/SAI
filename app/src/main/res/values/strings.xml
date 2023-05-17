@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Stressometr AI</string>
+    <string name="score">Natija</string>
+    <string name="txtHumidity">Namlik (%)</string>
+    <string name="txtTemperature">Harorat (°C)</string>
+    <string name="txtStep">Qadamlar soni</string>
+    <string name="txtWeight">Vazn (kg)</string>
+    <string name="txtHeight">Bo`yi (sm)</string>
+    <string name="txtRoad">Yo`l (m)</string>
+    <string name="txtTime">Vaqt (daq)</string>
+    <string name="settings">sozlamalar</string>
+    <string name="field">Maydon to`ldirilmagan</string>
+
+
+    <string name="txtCal">Yoqilgan kaloriya</string>
+    <string name="txtQ">Sarflangan quvvat</string>
+    <string name="txtSon">Qadamlar soni</string>
+    <string name="txtTezlik">Tezlik</string>
+
+    <string name="b1"> kkal</string>
+    <string name="b2"> kkal/daq</string>
+    <string name="b3"> kkal/daq</string>
+    <string name="b4"> km/h</string>
+
+    <string name="pedometr">pedometr</string>
+    <string name="stressometr">stressometr</string>
+    <string name="language">Tilni tanlang</string>
+    <string name="uz">O`zbekcha</string>
+    <string name="ru">Ruscha</string>
+
+    <string name="appHeader">Ilova haqida</string>
+    <string name="about2">"Ingliz tilidan tarjima qilingan "stress" so'zi "kuchlanish, yuk"degan ma'noni anglatadi. Bu atama 1929 yilda V. Kannon tomonidan fiziologiya, psixologiya va tibbiyotga kiritilgan, uning shogirdi G. Selye tomonidan 1946 yilda va undan keyin nashr etilgan asarlari tufayli keng tarqalgan. Surunkali stressni o'rganish XX asr oxiridan beri faol olib borilmoqda. Uning tarqalishi to'g'risida aniq ma'lumotlar yo'q, ammo rasmiy statistik ma'lumotlarga ko'ra, epidemiologik ko'rsatkich 25% dan oshadi. Yirik shaharlar, iqtisodiy rivojlangan mamlakatlar aholisi, zararli sanoat ishchilari va faoliyati katta hajmdagi ma'lumotlarni qayta ishlash, ko'chib o'tish, yangi odamlar bilan doimiy aloqada bo'lish bilan bog'liq bo'lgan shaxslar stressga ko'proq moyil ekanligi aniqlandi.
+"</string>
+    <string name="appInfo1">"Ilova sizga mashinani o'rganish yordamida stress darajasini aniqlashga imkon beradi tasodifiy o'rmon (Random Forrest) 99,7% aniqlik bilan bashorat qilish. Inson terisi yuzasida jismoniy harakatlar, namlik va harorat ko'rsatkichlarini kiritish asosida ishlab chiqilgan dastur stress darajasini aniqlaydi.
+"</string>
+    <string name="appInfo2">"Stress tananing o'ziga xos bo'lmagan adaptiv javoblari tizimini anglatadi. U jismoniy va psixologik stimullar ta'sirida rivojlanadi va ichki muhitning barqarorligini saqlashga imkon beradi – tanani qiyin vaziyatga moslashtiradi. Stressning asosiy gormonlari kortizol, kortikosteron, epinefrin va norepinefrindir. Ularning qondagi kontsentratsiyasining o'zgarishi tufayli immunitet va ovqat hazm qilish tizimlarining ishi inhibe qilinadi, parvoz yoki kurash uchun zarur bo'lgan mexanizmlar faollashadi – qon bosimi, nafas olish tezligi, mushaklarning ohangi ko'tariladi, idrok kuchayadi va fikrlash jarayonlari tezlashadi.
+"</string>
+    <string name="appInfo3">"Miyada qo'rquv va xavotir hissi bilan bog'liq joylar faollashadi-Amigdala va hipokampus. Tuyg'ularni ixtiyoriy tartibga solishni ta'minlaydigan prefrontal korteksning faoliyati, aksincha, kamayadi. Surunkali stressning o'ziga xos xususiyati shundaki, gormonlarning uzoq muddatli intensiv ishlab chiqarilishi va asab tizimining simpatik qismining giperaktivatsiyasi tananing charchashiga, ichki organlar va tizimlarning shikastlanishiga yordam beradi – immunitet pasayadi, og'riq paydo bo'ladi va somatik patologiyalar rivojlanadi.
+"</string>
+    <string name="follow">Bizni kuzating</string>
+
+
+    <string name="str1">Sizda stress darajangiz yengil</string>
+    <string name="str2">Sizda stress darajangiz o`rta</string>
+    <string name="str3">Sizda stress darajangiz og`ir</string>
+    <string name="sc">NATIJA</string>
+
+
+
+
+    <string name="cancel">Orqaga</string>
+<!--    <string name="message">Message</string>-->
+<!--    <string name="read_news">Read news</string>-->
+<!--    <string name="saved">Saved</string>-->
+<!--    <string name="profile">Profile</string>-->
+
+    <string name="account">Akkount</string>
+    <string name="infooo">Ilova haqida</string>
+    <string name="change_account_name">Akkount nomini o`zgartirish</string>
+    <string name="change_image">Akkount rasmini o`zgartirish</string>
+    <string name="help"><![CDATA[Help & Feedback]]></string>
+    <string name="support_us">Qo`llab-quvvatlash</string>
+    <string name="about_us">About US</string>
+    <string name="contact_us">Feedback</string>
+    <string name="name">Ism</string>
+    <string name="save">saqlash</string>
+    <string name="share">Ulashish</string>
+
+</resources>
